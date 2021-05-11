@@ -4,5 +4,3 @@ class Toit:
         self.hind = roaHind
         self.päevaEri = päevaEri
 
-uusToit = Toit('Seapraad', 3, False)
-print(uusToit.nimetus, uusToit.hind, uusToit.päevaEri)
